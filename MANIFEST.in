@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include requirements.txt
+include example_usage.py
+include test_with_workflow.py
+recursive-include media_bridge_viewer *.py
